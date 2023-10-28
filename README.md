@@ -1,5 +1,3 @@
-Welcome to abocadpo's GitHub
-
 ![header](https://capsule-render.vercel.app/api?
 type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?
